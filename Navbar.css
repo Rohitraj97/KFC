@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    height: 80px;
+    text-align: center;
+    color:#ff0000;
+    background-color: rgb(255,186,54);
+}
+
+
+h1{
+    font-size: 22px;
+    text-decoration: none;
+}

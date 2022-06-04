@@ -1,0 +1,14 @@
+ input{
+    width: 300px;
+    height: 40px;
+    padding: 5px 15px 5px;
+    text-align: left;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ #sub{
+     padding: 5px 15px 5px;
+     text-align: center;
+     background-color: teal;
+ }
